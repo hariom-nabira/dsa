@@ -67,4 +67,12 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/hariom-nabira/dsa/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/hariom-nabira/dsa/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
