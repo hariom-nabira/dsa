@@ -1,5 +1,5 @@
 # dsa
-A collection of the recent LeetCode questions I have solved.
+A collection of the LeetCode problems I have solved so far in 2025
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
