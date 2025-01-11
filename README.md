@@ -6,6 +6,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
@@ -47,6 +48,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-nabira/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
@@ -106,4 +108,8 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
