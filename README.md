@@ -10,6 +10,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0039-combination-sum](https://github.com/hariom-nabira/dsa/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/hariom-nabira/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
@@ -40,6 +41,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1524-string-matching-in-an-array) |
@@ -119,8 +121,14 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0039-combination-sum](https://github.com/hariom-nabira/dsa/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/hariom-nabira/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
