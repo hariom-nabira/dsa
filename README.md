@@ -148,4 +148,8 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/hariom-nabira/dsa/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
