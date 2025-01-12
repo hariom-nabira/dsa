@@ -151,5 +151,6 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/hariom-nabira/dsa/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hariom-nabira/dsa/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
