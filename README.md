@@ -15,6 +15,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariom-nabira/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/hariom-nabira/dsa/tree/master/2358-number-of-ways-to-split-array) |
@@ -145,6 +146,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -181,4 +184,16 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
