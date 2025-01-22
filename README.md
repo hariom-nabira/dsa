@@ -18,6 +18,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1524-string-matching-in-an-array) |
+| [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariom-nabira/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/hariom-nabira/dsa/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/hariom-nabira/dsa/tree/master/2358-number-of-ways-to-split-array) |
@@ -151,6 +152,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/hariom-nabira/dsa/tree/master/2145-grid-game) |
 ## Depth-First Search
 |  |
@@ -195,6 +197,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
