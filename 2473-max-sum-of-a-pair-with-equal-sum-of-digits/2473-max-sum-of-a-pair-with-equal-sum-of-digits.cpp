@@ -4,7 +4,6 @@ public:
         map<int,int>freq;  // O(n);
         map<int,int>mp; // O(log(max value))
         int res = -1;
-        for(int i=0; i<nums.size(); i++)freq[nums[i]]++;
         for(int i=0; i<nums.size(); i++){
             int sum=0;
             int temp=nums[i];
