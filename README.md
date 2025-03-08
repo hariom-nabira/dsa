@@ -74,6 +74,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hariom-nabira/dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-nabira/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hariom-nabira/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hariom-nabira/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/hariom-nabira/dsa/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hariom-nabira/dsa/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hariom-nabira/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -256,4 +257,8 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hariom-nabira/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hariom-nabira/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
