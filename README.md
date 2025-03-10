@@ -30,6 +30,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2465-shifting-letters-ii](https://github.com/hariom-nabira/dsa/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hariom-nabira/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hariom-nabira/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hariom-nabira/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hariom-nabira/dsa/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hariom-nabira/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -59,6 +60,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hariom-nabira/dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-nabira/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hariom-nabira/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hariom-nabira/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hariom-nabira/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -261,4 +263,5 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hariom-nabira/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hariom-nabira/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
