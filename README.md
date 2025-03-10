@@ -63,6 +63,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hariom-nabira/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hariom-nabira/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2691-count-vowel-strings-in-ranges](https://github.com/hariom-nabira/dsa/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hariom-nabira/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,4 +266,5 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hariom-nabira/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hariom-nabira/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
