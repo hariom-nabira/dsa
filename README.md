@@ -18,6 +18,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/hariom-nabira/dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1524-string-matching-in-an-array) |
@@ -274,6 +275,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/hariom-nabira/dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariom-nabira/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
