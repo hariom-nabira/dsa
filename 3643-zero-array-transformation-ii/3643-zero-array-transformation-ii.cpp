@@ -1,35 +1,33 @@
-//cfs
-
-
 class Solution {
 public:
     int minZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
-        int n = nums.size(), sum = 0, k = 0;
-        vector<int> differenceArray(n + 1);
-
-        // Iterate through nums
-        for (int index = 0; index < n; index++) {
-            // Iterate through queries while current index of nums cannot equal
-            // zero
-            while (sum + differenceArray[index] < nums[index]) {
-                k++;
-
-                // Zero array isn't formed after all queries are processed
-                if (k > queries.size()) {
-                    return -1;
-                }
-                int left = queries[k - 1][0], right = queries[k - 1][1],
-                    val = queries[k - 1][2];
-
-                // Process start and end of range
-                if (right >= index) {
-                    differenceArray[max(left, index)] += val;
-                    differenceArray[right + 1] -= val;
-                }
+        int l=0, r=queries.size(), ans = -1;
+        while(l<=r){
+            int mid = l+(r-l)/2;
+            if(helper(nums,queries,mid)){
+                ans = mid;
+                r = mid-1;
+            }else{
+                l = mid+1;
             }
-            // Update prefix sum at current index
-            sum += differenceArray[index];
         }
-        return k;
+        return ans;
+    }
+    bool helper(vector<int> &nums, vector<vector<int>> &queries, int k){
+        int n=nums.size();
+        vector<int> diff(n+1,0);
+        for(int i=0; i<k ; i++){
+            auto q = queries[i];
+            diff[q[0]]+=q[2];
+            diff[q[1]+1]-=q[2];
+        }
+        int curr=0;
+        for(int i=0; i<n; i++){
+            curr += diff[i];
+            if(nums[i] > curr){
+                return false;
+            }
+        }
+        return true;
     }
 };
