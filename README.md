@@ -42,6 +42,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hariom-nabira/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hariom-nabira/dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hariom-nabira/dsa/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/hariom-nabira/dsa/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -272,6 +273,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hariom-nabira/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hariom-nabira/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3483-alternating-groups-ii](https://github.com/hariom-nabira/dsa/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
 |  |
