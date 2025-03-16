@@ -189,6 +189,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
+| [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hariom-nabira/dsa/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
@@ -236,6 +237,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hariom-nabira/dsa/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
@@ -282,4 +284,12 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariom-nabira/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/hariom-nabira/dsa/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
