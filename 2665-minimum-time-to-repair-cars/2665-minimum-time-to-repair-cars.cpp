@@ -1,44 +1,24 @@
 class Solution {
 public:
-    long repairCars(vector<int>& ranks, int cars) {
-        int minRank = ranks[0], maxRank = ranks[0];
-
-        // Find min and max rank dynamically
-        for (int rank : ranks) {
-            minRank = min(minRank, rank);
-            maxRank = max(maxRank, rank);
-        }
-
-        // Frequency array to count mechanics with each rank
-        vector<int> freq(maxRank + 1);
-        for (int rank : ranks) {
-            minRank = min(minRank, rank);
-            freq[rank]++;
-        }
-
-        // Minimum possible time, Maximum possible time
-        long long low = 1, high = 1LL * minRank * cars * cars;
-
-        // Perform binary search to find the minimum time required
-        while (low < high) {
-            long long mid = (low + high) / 2;
-            long long carsRepaired = 0;
-
-            // Calculate the total number of cars that can be repaired in 'mid'
-            // time
-            for (int rank = 1; rank <= maxRank; rank++) {
-                carsRepaired +=
-                    freq[rank] * (long long)sqrt(mid / (long long)rank);
+    long long repairCars(vector<int>& nums, int cars) {
+        long long l = *min_element(nums.begin(), nums.end());
+        long long r = *max_element(nums.begin(), nums.end());
+        l = l * 1 * 1;
+        r = r * cars * cars;
+        int n=nums.size();
+        while(l<r){
+            long long mid = l+(r-l)/2;
+            long long cnt=0;
+            for(int i=0; i<n; i++){
+                cnt += floor(sqrt( (mid*1.0)/nums[i] ));
+                if(cnt>=cars) break;
             }
-
-            // Adjust the search boundaries based on the number of cars repaired
-            if (carsRepaired >= cars) {
-                high = mid;  // Try to find a smaller time
-            } else {
-                low = mid + 1;  // Need more time
+            if(cnt >= cars){
+                r = mid;
+            }else{
+                l = mid+1;
             }
         }
-
-        return low;
+        return r;
     }
 };
