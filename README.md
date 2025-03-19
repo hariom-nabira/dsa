@@ -45,6 +45,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hariom-nabira/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hariom-nabira/dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hariom-nabira/dsa/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hariom-nabira/dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/hariom-nabira/dsa/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/hariom-nabira/dsa/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
@@ -58,6 +59,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2358-number-of-ways-to-split-array](https://github.com/hariom-nabira/dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/hariom-nabira/dsa/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hariom-nabira/dsa/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hariom-nabira/dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/hariom-nabira/dsa/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -106,6 +108,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hariom-nabira/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hariom-nabira/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/hariom-nabira/dsa/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hariom-nabira/dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
@@ -241,6 +244,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hariom-nabira/dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -285,6 +289,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hariom-nabira/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/hariom-nabira/dsa/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hariom-nabira/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hariom-nabira/dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/hariom-nabira/dsa/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
