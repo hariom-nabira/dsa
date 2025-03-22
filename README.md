@@ -212,6 +212,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hariom-nabira/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/hariom-nabira/dsa/tree/master/2793-count-the-number-of-complete-components) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/hariom-nabira/dsa/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hariom-nabira/dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hariom-nabira/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2793-count-the-number-of-complete-components](https://github.com/hariom-nabira/dsa/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hariom-nabira/dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
 |  |
@@ -285,6 +288,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/hariom-nabira/dsa/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariom-nabira/dsa/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hariom-nabira/dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
