@@ -1,27 +1,18 @@
+//same logic, cleaner implementation
 class Solution {
 public:
     int countDays(int days, vector<vector<int>>& meetings) {
-        meetings.push_back({days+1, days+1});
-        int n=meetings.size();
-        sort(meetings.begin(), meetings.end());
-        vector<vector<int>> mergedIntervals;
-        int l=0, r=0;
-        for(int i=0; i<n; i++){
-            if(meetings[i][0] <= r){
-                l = min(l,meetings[i][0]);
-                r = max(r,meetings[i][1]);
-            }else{
-                mergedIntervals.push_back({l,r});
-                l = meetings[i][0];
-                r = meetings[i][1];
+        int ans = 0;
+        sort(meetings.begin(),meetings.end());
+        ans += meetings[0][0]-1;
+        int prevEnd = meetings[0][1];
+        for(int i=1; i<meetings.size(); i++){
+            if(meetings[i][0]>prevEnd){
+                ans += meetings[i][0]-prevEnd-1; 
             }
+            prevEnd = max(prevEnd,meetings[i][1]);
         }
-        mergedIntervals.push_back({l,r});    
-        // for(auto &v: mergedIntervals) cout<<v[0]<<" "<<v[1]<<"\n";
-        int ans=0, sz=mergedIntervals.size();
-        for(int i=1; i<sz; i++){
-            ans += max(0, mergedIntervals[i][0]-mergedIntervals[i-1][1]-1);
-        }
-        return ans;
+        ans += days - prevEnd;
+        return ans; 
     }
 };
