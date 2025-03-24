@@ -9,6 +9,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hariom-nabira/dsa/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/hariom-nabira/dsa/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -193,6 +194,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
@@ -282,6 +284,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Union Find
