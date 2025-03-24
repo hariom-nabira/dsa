@@ -208,6 +208,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hariom-nabira/dsa/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
@@ -256,6 +257,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
@@ -269,6 +271,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/hariom-nabira/dsa/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -300,6 +303,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hariom-nabira/dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hariom-nabira/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
