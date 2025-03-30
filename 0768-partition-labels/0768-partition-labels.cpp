@@ -1,22 +1,16 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
-        map<char,int> last;
+        vector<int> last(26);
         int n=s.size();
-        for(int i=0; i<n; i++) last[s[i]] = i;
+        for(int i=0; i<n; i++) last[s[i]-'a'] = i;
         vector<int> ans;
-        int start, end, open=0;
+        int start=0, end=0, open=0;
         for(int i=0; i<n; i++){
-            if(!open){
-                end = last[s[i]];
-                start=i;
-                open=1; 
-            }
+            end = max(end, last[s[i]-'a']);
             if(i==end){
                 ans.push_back(end-start+1);
-                open=0;
-            }else{
-                end = max(end, last[s[i]]);
+                start=i+1;
             }
         }
         return ans;
