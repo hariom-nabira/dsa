@@ -74,6 +74,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
+| [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hariom-nabira/dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -91,6 +92,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1524-string-matching-in-an-array) |
@@ -157,6 +159,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
+| [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/hariom-nabira/dsa/tree/master/0908-middle-of-the-linked-list) |
 ## Trie
 |  |
@@ -174,6 +177,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hariom-nabira/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/hariom-nabira/dsa/tree/master/2509-minimize-xor) |
