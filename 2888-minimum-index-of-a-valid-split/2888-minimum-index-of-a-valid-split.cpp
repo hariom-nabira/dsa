@@ -3,17 +3,14 @@ public:
     int minimumIndex(vector<int>& nums) {
         int n=nums.size();
         int maj = findMajor(nums);
-        // cout<<maj<<"\n";
-        vector<int> pre(n+1);
-        for(int i=1; i<=n; i++){
-            pre[i] = pre[i-1] + (nums[i-1]==maj);
-            // cout<<pre[i]<<" ";
+        int majCnt=0;
+        for(int &e:nums){
+            majCnt += (e==maj);
         }
-        // cout<<"\n\n";
+        int l=0;
         for(int i=0; i<n-1; i++){
-            int l=pre[i+1];
-            int r=pre[n]-l;
-            // cout<<l<<" "<<(i+1)/2<<" "<<r<<" "<<(n-i-1)/2<<"\n";
+            l += (nums[i]==maj);
+            int r = majCnt - l;
             if(l>(i+1)/2 && r>(n-i-1)/2) return i;
         }
         return -1;
