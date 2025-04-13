@@ -126,11 +126,13 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Math
 |  |
 | ------- |
+| [2050-count-good-numbers](https://github.com/hariom-nabira/dsa/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/hariom-nabira/dsa/tree/master/2998-count-symmetric-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
+| [2050-count-good-numbers](https://github.com/hariom-nabira/dsa/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
