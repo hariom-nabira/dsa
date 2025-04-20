@@ -8,7 +8,7 @@ public:
             mp[a[i]].push_back(i);
             if(mp[a[i]].size()==a[i]){
                 ans.push_back(mp[a[i]]);
-                mp[a[i]] = vector<int>();
+                mp[a[i]].clear();
             }
         }
         return ans;
