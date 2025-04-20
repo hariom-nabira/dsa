@@ -17,6 +17,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
+| [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hariom-nabira/dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -78,6 +79,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hariom-nabira/dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -129,6 +131,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/hariom-nabira/dsa/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/hariom-nabira/dsa/tree/master/2998-count-symmetric-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -187,6 +190,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hariom-nabira/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/hariom-nabira/dsa/tree/master/2509-minimize-xor) |
