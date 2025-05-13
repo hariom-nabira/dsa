@@ -102,6 +102,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2888-minimum-index-of-a-valid-split](https://github.com/hariom-nabira/dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hariom-nabira/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2050-count-good-numbers](https://github.com/hariom-nabira/dsa/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/hariom-nabira/dsa/tree/master/2998-count-symmetric-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2308-divide-array-into-equal-pairs](https://github.com/hariom-nabira/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariom-nabira/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -335,6 +339,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/hariom-nabira/dsa/tree/master/0806-domino-and-tromino-tiling) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Union Find
 |  |
 | ------- |
