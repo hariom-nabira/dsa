@@ -56,6 +56,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariom-nabira/dsa/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hariom-nabira/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/hariom-nabira/dsa/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hariom-nabira/dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hariom-nabira/dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hariom-nabira/dsa/tree/master/3429-special-array-i) |
@@ -150,6 +151,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1500-count-largest-group](https://github.com/hariom-nabira/dsa/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/hariom-nabira/dsa/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/hariom-nabira/dsa/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/hariom-nabira/dsa/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
@@ -274,6 +276,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2888-minimum-index-of-a-valid-split](https://github.com/hariom-nabira/dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hariom-nabira/dsa/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariom-nabira/dsa/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/hariom-nabira/dsa/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/hariom-nabira/dsa/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hariom-nabira/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
