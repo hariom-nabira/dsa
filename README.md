@@ -25,6 +25,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/hariom-nabira/dsa/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1524-string-matching-in-an-array) |
 | [1835-decode-xored-permutation](https://github.com/hariom-nabira/dsa/tree/master/1835-decode-xored-permutation) |
 | [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
@@ -221,6 +222,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/hariom-nabira/dsa/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
+| [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hariom-nabira/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hariom-nabira/dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2509-minimize-xor](https://github.com/hariom-nabira/dsa/tree/master/2509-minimize-xor) |
@@ -282,6 +284,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariom-nabira/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hariom-nabira/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/hariom-nabira/dsa/tree/master/2681-put-marbles-in-bags) |
@@ -359,6 +362,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/hariom-nabira/dsa/tree/master/0806-domino-and-tromino-tiling) |
+| [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/hariom-nabira/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/hariom-nabira/dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
