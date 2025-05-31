@@ -276,6 +276,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hariom-nabira/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/hariom-nabira/dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/hariom-nabira/dsa/tree/master/2793-count-the-number-of-complete-components) |
 ## Divide and Conquer
@@ -352,6 +353,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hariom-nabira/dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hariom-nabira/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/hariom-nabira/dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/hariom-nabira/dsa/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hariom-nabira/dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
