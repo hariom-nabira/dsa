@@ -1,26 +1,16 @@
-// for numbers bigger than long long __int128
+/* LOGIc
+Since we want 2 partitions, each having prod==target, each element of both partition should divide target (i.e be a factor)
+Now since elemnts are DISTINCT we can simply check if every element of the array is a factor of target.
 
-typedef __int128 biggie;
-
+IF elements were not distinct, then it would fail
+Ex: nums=[2,2,2,2,2,2]; target=2
+*/
 class Solution {
-private:
-    bool helper(vector<int> &nums, int i, long long curr, long long target){
-        if(curr>target) return false;
-        int n=nums.size();
-        if(i==n){
-            return curr==target;
-        }
-        return helper(nums, i+1, curr*nums[i], target) || helper(nums, i+1, curr, target);
-    }
 public:
     bool checkEqualPartitions(vector<int>& nums, long long target) {
-        biggie prod = 1;
-        int n=nums.size();
-        for(int i=0; i<n; i++){
-            prod *= nums[i];
-            if(prod > (biggie)target * target) return false;
+        for(auto e:nums){
+            if(target%e) return false;
         }
-        if(prod != (biggie)target*target) return false;
-        return helper(nums,0,1,target);
+        return true;
     }
 };
