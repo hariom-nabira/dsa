@@ -163,6 +163,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2050-count-good-numbers](https://github.com/hariom-nabira/dsa/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/hariom-nabira/dsa/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/hariom-nabira/dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/hariom-nabira/dsa/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hariom-nabira/dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/hariom-nabira/dsa/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -428,6 +429,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariom-nabira/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/hariom-nabira/dsa/tree/master/2998-count-symmetric-integers) |
+| [3199-distribute-candies-among-children-i](https://github.com/hariom-nabira/dsa/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hariom-nabira/dsa/tree/master/3201-distribute-candies-among-children-ii) |
 ## Memoization
 |  |
@@ -436,5 +438,6 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Combinatorics
 |  |
 | ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/hariom-nabira/dsa/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hariom-nabira/dsa/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
