@@ -26,6 +26,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hariom-nabira/dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/hariom-nabira/dsa/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hariom-nabira/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1524-string-matching-in-an-array) |
@@ -343,6 +344,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/hariom-nabira/dsa/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hariom-nabira/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -352,6 +354,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/hariom-nabira/dsa/tree/master/0684-redundant-connection) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hariom-nabira/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/hariom-nabira/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
