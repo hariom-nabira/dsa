@@ -23,6 +23,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0945-snakes-and-ladders](https://github.com/hariom-nabira/dsa/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hariom-nabira/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hariom-nabira/dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/hariom-nabira/dsa/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -77,6 +78,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hariom-nabira/dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariom-nabira/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-nabira/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -162,6 +164,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
+| [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
 | [1500-count-largest-group](https://github.com/hariom-nabira/dsa/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/hariom-nabira/dsa/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/hariom-nabira/dsa/tree/master/2998-count-symmetric-integers) |
@@ -377,6 +380,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/hariom-nabira/dsa/tree/master/0806-domino-and-tromino-tiling) |
+| [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
 | [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/hariom-nabira/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/hariom-nabira/dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -446,4 +450,8 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/hariom-nabira/dsa/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hariom-nabira/dsa/tree/master/3201-distribute-candies-among-children-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
