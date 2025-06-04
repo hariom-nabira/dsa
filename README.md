@@ -73,6 +73,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3639-zero-array-transformation-i](https://github.com/hariom-nabira/dsa/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hariom-nabira/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
 ## String
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3321-type-of-triangle](https://github.com/hariom-nabira/dsa/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/hariom-nabira/dsa/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hariom-nabira/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
