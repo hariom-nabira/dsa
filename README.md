@@ -114,6 +114,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hariom-nabira/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hariom-nabira/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hariom-nabira/dsa/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hariom-nabira/dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -142,6 +143,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/hariom-nabira/dsa/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hariom-nabira/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hariom-nabira/dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -196,6 +198,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hariom-nabira/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hariom-nabira/dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2681-put-marbles-in-bags](https://github.com/hariom-nabira/dsa/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/hariom-nabira/dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hariom-nabira/dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hariom-nabira/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/hariom-nabira/dsa/tree/master/2681-put-marbles-in-bags) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hariom-nabira/dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Quickselect
 |  |
 | ------- |
