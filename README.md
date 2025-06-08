@@ -221,6 +221,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/hariom-nabira/dsa/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hariom-nabira/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -288,6 +289,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
+| [0386-lexicographical-numbers](https://github.com/hariom-nabira/dsa/tree/master/0386-lexicographical-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hariom-nabira/dsa/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
