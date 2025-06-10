@@ -1,24 +1,19 @@
 class Solution {
 public:
     string lastSubstring(string s) {
-        int i=0, j=1, n=s.size();
-        // while(j<n){
-            int k=0;
-            while(j+k < n){
-                if(s[i+k] > s[j+k]){
-                    j = max(j+1, i+k+1);
-                    k=0;
-                }else if(s[i+k] < s[j+k]){
-                    i = max(i+k+1,j);
-                    j = i+1;
-                    k=0;
-                }else{
-                    k++;
-                }
+        int n=s.size(), i=0, j=1, k=0;
+        while(j+k < n){
+            if(s[i+k]==s[j+k]){
+                k++;
+                continue;
+            }else if(s[i+k] > s[j+k]){
+                j = j+k+1;
+            }else{
+                i = max(i+k+1,j);
+                j = i+1;
             }
-            // j = i+1;
-            // while(j<n && s[j]!=s[i]) j++;
-        // }
+            k=0;
+        }
         return s.substr(i);
     }
 };
