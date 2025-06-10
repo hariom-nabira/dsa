@@ -1,30 +1,37 @@
-class Solution {
+class UnionFind {
 private:
-    int myFind(vector<int> &par, int a){
-        if(par[a]==-1) return a;
-        return par[a] = myFind(par, par[a]);
+    vector<int> par;
+public:
+    UnionFind(int n){
+        par.resize(n);
+        iota(par.begin(), par.end(), 0);
     }
-    void myUnion(vector<int> &par, int a, int b){
-        if(myFind(par,a) == myFind(par,b)) return;
-        par[myFind(par,a)] = b;
+    int myFind(int a){
+        if(par[a]==a) return a;
+        return par[a] = myFind(par[a]);
     }
+    void myUnion(int a, int b){
+        int pa = myFind(a);
+        int pb = myFind(b);
+        if(pa>pb){
+            par[pa] = pb;
+        }else{
+            par[pb] = pa;
+        }
+    }
+};
+
+class Solution {
 public:
     string smallestEquivalentString(string s1, string s2, string baseStr) {
-        vector<int> par(26,-1);
         int n=s1.size();
+        UnionFind uf(26);
         for(int i=0; i<n; i++){
-            myUnion(par, s1[i]-'a', s2[i]-'a');
-            cout<<"------------ "<<s1[i]<<" "<<s2[i]<<"\n";
+            uf.myUnion(s1[i]-'a', s2[i]-'a');
         }
         string ans="";
         for(auto &ch: baseStr){
-            int req = myFind(par, ch-'a');
-            for(int c=0; c<26; c++){
-                if(myFind(par,c) == req){
-                    ans += ('a'+c);
-                    break;
-                }
-            }
+            ans += ('a' + uf.myFind(ch-'a'));
         }
         return ans;
     }
