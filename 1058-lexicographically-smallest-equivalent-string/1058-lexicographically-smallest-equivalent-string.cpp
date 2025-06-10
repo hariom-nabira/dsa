@@ -1,38 +1,31 @@
-//cfs
 class Solution {
+private:
+    int myFind(vector<int> &par, int a){
+        if(par[a]==-1) return a;
+        return par[a] = myFind(par, par[a]);
+    }
+    void myUnion(vector<int> &par, int a, int b){
+        if(myFind(par,a) == myFind(par,b)) return;
+        par[myFind(par,a)] = b;
+    }
 public:
-    // DFS to find the smallest lex character in the component
-    char dfs(unordered_map<char, vector<char>>& adj, char cur, vector<int>& vis) {
-        vis[cur - 'a'] = 1;
-        char minChar = cur;
-        for (char neighbor : adj[cur]) {
-            if (vis[neighbor - 'a'] == 0) {
-                minChar = min(minChar, dfs(adj, neighbor, vis));
+    string smallestEquivalentString(string s1, string s2, string baseStr) {
+        vector<int> par(26,-1);
+        int n=s1.size();
+        for(int i=0; i<n; i++){
+            myUnion(par, s1[i]-'a', s2[i]-'a');
+            cout<<"------------ "<<s1[i]<<" "<<s2[i]<<"\n";
+        }
+        string ans="";
+        for(auto &ch: baseStr){
+            int req = myFind(par, ch-'a');
+            for(int c=0; c<26; c++){
+                if(myFind(par,c) == req){
+                    ans += ('a'+c);
+                    break;
+                }
             }
         }
-        return minChar;
-    }
-
-    string smallestEquivalentString(string s1, string s2, string baseStr) {
-        int n = s1.length();
-        unordered_map<char, vector<char>> adj;
-
-        // Step 1: Build the equivalence graph
-        for (int i = 0; i < n; ++i) {
-            char u = s1[i];
-            char v = s2[i];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-
-        // Step 2: Replace each character in baseStr with the smallest equivalent
-        string result;
-        for (char ch : baseStr) {
-            vector<int> vis(26, 0);
-            char minChar = dfs(adj, ch, vis);
-            result.push_back(minChar);
-        }
-
-        return result;
+        return ans;
     }
 };
