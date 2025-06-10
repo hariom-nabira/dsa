@@ -129,6 +129,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/hariom-nabira/dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1133-last-substring-in-lexicographical-order](https://github.com/hariom-nabira/dsa/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hariom-nabira/dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -217,6 +218,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/hariom-nabira/dsa/tree/master/0908-middle-of-the-linked-list) |
+| [1133-last-substring-in-lexicographical-order](https://github.com/hariom-nabira/dsa/tree/master/1133-last-substring-in-lexicographical-order) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariom-nabira/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hariom-nabira/dsa/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hariom-nabira/dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
