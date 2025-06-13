@@ -20,6 +20,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
+| [0907-koko-eating-bananas](https://github.com/hariom-nabira/dsa/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/hariom-nabira/dsa/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hariom-nabira/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -435,6 +436,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/hariom-nabira/dsa/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hariom-nabira/dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariom-nabira/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hariom-nabira/dsa/tree/master/2665-minimum-time-to-repair-cars) |
