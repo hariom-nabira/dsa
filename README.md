@@ -39,6 +39,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hariom-nabira/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariom-nabira/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hariom-nabira/dsa/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/hariom-nabira/dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/hariom-nabira/dsa/tree/master/2145-grid-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariom-nabira/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hariom-nabira/dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
