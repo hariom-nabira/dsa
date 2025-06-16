@@ -13,9 +13,7 @@ public:
     }
     
     int sumRegion(int row1, int col1, int row2, int col2) {
-        // we get coordinates 0-indexed, we convert to 1-based
-        row1++, col1++, row2++, col2++;
-        return psum[row2][col2] - psum[row1-1][col2] - psum[row2][col1-1] + psum[row1-1][col1-1];
+        return psum[row2+1][col2+1] - psum[row1][col2+1] - psum[row2+1][col1] + psum[row1][col1];
     }
 };
 
