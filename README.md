@@ -15,6 +15,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0135-candy](https://github.com/hariom-nabira/dsa/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
@@ -81,6 +82,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hariom-nabira/dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariom-nabira/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -290,6 +292,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
+| [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
@@ -488,4 +491,8 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
