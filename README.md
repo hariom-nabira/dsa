@@ -190,6 +190,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3321-type-of-triangle](https://github.com/hariom-nabira/dsa/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/hariom-nabira/dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -488,6 +489,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/hariom-nabira/dsa/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hariom-nabira/dsa/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/hariom-nabira/dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Game Theory
 |  |
 | ------- |
