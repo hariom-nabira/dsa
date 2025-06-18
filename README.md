@@ -134,6 +134,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0038-count-and-say](https://github.com/hariom-nabira/dsa/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
@@ -291,6 +292,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0051-n-queens](https://github.com/hariom-nabira/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
+| [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/hariom-nabira/dsa/tree/master/0806-domino-and-tromino-tiling) |
