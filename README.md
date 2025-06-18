@@ -80,6 +80,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hariom-nabira/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
+| [3885-count-special-triplets](https://github.com/hariom-nabira/dsa/tree/master/3885-count-special-triplets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariom-nabira/dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
+| [3885-count-special-triplets](https://github.com/hariom-nabira/dsa/tree/master/3885-count-special-triplets) |
 ## String
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariom-nabira/dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3885-count-special-triplets](https://github.com/hariom-nabira/dsa/tree/master/3885-count-special-triplets) |
 ## Backtracking
 |  |
 | ------- |
