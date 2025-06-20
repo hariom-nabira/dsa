@@ -127,6 +127,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hariom-nabira/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariom-nabira/dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hariom-nabira/dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/hariom-nabira/dsa/tree/master/3885-count-special-triplets) |
 ## String
@@ -161,6 +162,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hariom-nabira/dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariom-nabira/dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hariom-nabira/dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/hariom-nabira/dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hariom-nabira/dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3455-minimum-length-of-string-after-operations](https://github.com/hariom-nabira/dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariom-nabira/dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hariom-nabira/dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3885-count-special-triplets](https://github.com/hariom-nabira/dsa/tree/master/3885-count-special-triplets) |
 ## Backtracking
 |  |
