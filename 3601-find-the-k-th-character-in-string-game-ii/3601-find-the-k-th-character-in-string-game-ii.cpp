@@ -1,3 +1,17 @@
+class Solution {
+public:
+    char kthCharacter(long long k, vector<int>& operations) {
+        int n=ceil(log2(k)), shift=0;
+        for(int i=n-1; i>=0; i--){
+            if(k > (1LL<<i)){
+                shift += operations[i];
+                k -= (1LL << i);
+            }
+        }
+        return 'a' + (shift)%26;
+    }
+};
+
         //yooo netal
    // abhi bhaii y bhi hota kya???
    // haaaaaaa!!!!
@@ -41,20 +55,6 @@ app.use(express.static('src/client')); // Middleware to serve static files from 
 */   //isko aaisa hi rehne de
 // mai ohkalyiykyhra code
 // mei timmer lagati 1 ghante ka chal andhere mei padhti (ambetkar lamp mei padhte the mei laptop ki light mei padhungii ) \U0001f602\U0001f602\U0001f602\U0001f602\U0001f602\U0001f602\U0001f602 tune copy paste kiyaaa y bhi wtff yaha tab nahi h hariii \U0001f602\U0001f602\U0001f602\U0001f602\U0001f602
-class Solution {
-public:
-    char kthCharacter(long long k, vector<int>& operations) {
-        long long len=0;
-        while((1LL<<len) < k){
-            len++;
-        }
-        long long currChar=k, shift=0;
-        for(int i=len-1; i>=0; i--){
-            if(currChar > (1LL<<i)){
-                shift += operations[i];
-                currChar -= (1LL << i);
-            }
-        }
-        return 'a' + (shift)%26;
-    }
-};
+
+
+// ayooooooooooooo done ✅
