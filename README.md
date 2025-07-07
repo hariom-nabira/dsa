@@ -31,6 +31,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/hariom-nabira/dsa/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hariom-nabira/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hariom-nabira/dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -269,6 +270,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/hariom-nabira/dsa/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hariom-nabira/dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hariom-nabira/dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -348,6 +350,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hariom-nabira/dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariom-nabira/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hariom-nabira/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -367,6 +370,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hariom-nabira/dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hariom-nabira/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/hariom-nabira/dsa/tree/master/2681-put-marbles-in-bags) |
