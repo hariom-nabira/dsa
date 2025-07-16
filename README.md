@@ -79,6 +79,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3430-count-days-without-meetings](https://github.com/hariom-nabira/dsa/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hariom-nabira/dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/hariom-nabira/dsa/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3639-zero-array-transformation-i](https://github.com/hariom-nabira/dsa/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hariom-nabira/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -450,6 +451,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/hariom-nabira/dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Union Find
 |  |
