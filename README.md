@@ -44,6 +44,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1927-maximum-ascending-subarray-sum](https://github.com/hariom-nabira/dsa/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hariom-nabira/dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/hariom-nabira/dsa/tree/master/2145-grid-game) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hariom-nabira/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariom-nabira/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hariom-nabira/dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hariom-nabira/dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -178,6 +179,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [1835-decode-xored-permutation](https://github.com/hariom-nabira/dsa/tree/master/1835-decode-xored-permutation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-nabira/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hariom-nabira/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariom-nabira/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/hariom-nabira/dsa/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/hariom-nabira/dsa/tree/master/2509-minimize-xor) |
@@ -316,6 +318,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hariom-nabira/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hariom-nabira/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariom-nabira/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/hariom-nabira/dsa/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/hariom-nabira/dsa/tree/master/3199-distribute-candies-among-children-i) |
