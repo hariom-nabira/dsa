@@ -45,6 +45,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1927-maximum-ascending-subarray-sum](https://github.com/hariom-nabira/dsa/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hariom-nabira/dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/hariom-nabira/dsa/tree/master/2145-grid-game) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hariom-nabira/dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hariom-nabira/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariom-nabira/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hariom-nabira/dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -183,6 +184,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1835-decode-xored-permutation](https://github.com/hariom-nabira/dsa/tree/master/1835-decode-xored-permutation) |
 | [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-nabira/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hariom-nabira/dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hariom-nabira/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariom-nabira/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/hariom-nabira/dsa/tree/master/2478-longest-nice-subarray) |
@@ -258,6 +260,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0908-middle-of-the-linked-list](https://github.com/hariom-nabira/dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/hariom-nabira/dsa/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hariom-nabira/dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariom-nabira/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hariom-nabira/dsa/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hariom-nabira/dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -465,6 +468,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/hariom-nabira/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/hariom-nabira/dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hariom-nabira/dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/hariom-nabira/dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -504,6 +508,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0907-koko-eating-bananas](https://github.com/hariom-nabira/dsa/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hariom-nabira/dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/hariom-nabira/dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hariom-nabira/dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hariom-nabira/dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariom-nabira/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hariom-nabira/dsa/tree/master/2665-minimum-time-to-repair-cars) |
@@ -554,4 +559,9 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hariom-nabira/dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hariom-nabira/dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
