@@ -40,6 +40,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/hariom-nabira/dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hariom-nabira/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariom-nabira/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hariom-nabira/dsa/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hariom-nabira/dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -180,6 +181,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [1835-decode-xored-permutation](https://github.com/hariom-nabira/dsa/tree/master/1835-decode-xored-permutation) |
+| [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-nabira/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hariom-nabira/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariom-nabira/dsa/tree/master/2308-divide-array-into-equal-pairs) |
@@ -255,6 +257,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/hariom-nabira/dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/hariom-nabira/dsa/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hariom-nabira/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hariom-nabira/dsa/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hariom-nabira/dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -365,6 +368,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hariom-nabira/dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/hariom-nabira/dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hariom-nabira/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hariom-nabira/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/hariom-nabira/dsa/tree/master/2681-put-marbles-in-bags) |
@@ -457,6 +461,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
 | [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/hariom-nabira/dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/hariom-nabira/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/hariom-nabira/dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hariom-nabira/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -545,4 +550,8 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
+## Bitmask
+|  |
+| ------- |
+| [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
