@@ -12,6 +12,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/hariom-nabira/dsa/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/hariom-nabira/dsa/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -457,6 +458,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/hariom-nabira/dsa/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
