@@ -150,6 +150,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0038-count-and-say](https://github.com/hariom-nabira/dsa/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
+| [0514-freedom-trail](https://github.com/hariom-nabira/dsa/tree/master/0514-freedom-trail) |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
@@ -355,6 +356,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/hariom-nabira/dsa/tree/master/0386-lexicographical-numbers) |
+| [0514-freedom-trail](https://github.com/hariom-nabira/dsa/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hariom-nabira/dsa/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
@@ -427,6 +429,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0514-freedom-trail](https://github.com/hariom-nabira/dsa/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hariom-nabira/dsa/tree/master/0684-redundant-connection) |
@@ -465,6 +468,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0118-pascals-triangle](https://github.com/hariom-nabira/dsa/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
+| [0514-freedom-trail](https://github.com/hariom-nabira/dsa/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/hariom-nabira/dsa/tree/master/0806-domino-and-tromino-tiling) |
 | [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
