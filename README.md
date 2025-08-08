@@ -89,6 +89,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3639-zero-array-transformation-i](https://github.com/hariom-nabira/dsa/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hariom-nabira/dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hariom-nabira/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/hariom-nabira/dsa/tree/master/3885-count-special-triplets) |
@@ -350,6 +351,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/hariom-nabira/dsa/tree/master/2145-grid-game) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hariom-nabira/dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/hariom-nabira/dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hariom-nabira/dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Union Find
 |  |
 | ------- |
