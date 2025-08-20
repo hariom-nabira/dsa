@@ -6,6 +6,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hariom-nabira/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hariom-nabira/dsa/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/hariom-nabira/dsa/tree/master/0051-n-queens) |
@@ -523,6 +524,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hariom-nabira/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/hariom-nabira/dsa/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hariom-nabira/dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/hariom-nabira/dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
