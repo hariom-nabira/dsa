@@ -79,6 +79,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hariom-nabira/dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/hariom-nabira/dsa/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariom-nabira/dsa/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hariom-nabira/dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/hariom-nabira/dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hariom-nabira/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/hariom-nabira/dsa/tree/master/3321-type-of-triangle) |
