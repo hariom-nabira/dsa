@@ -230,6 +230,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/hariom-nabira/dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hariom-nabira/dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/hariom-nabira/dsa/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
