@@ -1,27 +1,24 @@
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        auto comp = [](const pair<int,int> &a, const pair<int,int> &b){
-            double avgInc1 = (a.first+1.0)/(a.second+1.0) - (a.first*1.0)/a.second;
-            double avgInc2 = (b.first+1.0)/(b.second+1.0) - (b.first*1.0)/b.second;
-            return avgInc1 < avgInc2;
+        auto avgInc = [](int &pass, int &total){
+            return (double)(pass+1)/(total+1) - (double)pass/total;
         };
-        priority_queue<pair<int,int>, vector<pair<int,int>>, decltype(comp)> pq(comp);
-        for(auto &v: classes){
-            pq.push({v[0],v[1]});
+        int n = classes.size();
+        priority_queue<pair<double,int>> pq;
+        for(int i=0; i<n; i++){
+            pq.push({avgInc(classes[i][0],classes[i][1]),i});
         }
         while(extraStudents--){
-            auto p = pq.top();
+            auto [gain, i] = pq.top();
             pq.pop();
-            p.first++;
-            p.second++;
-            pq.push(p);
+            classes[i][0]++;
+            classes[i][1]++;
+            pq.push({avgInc(classes[i][0],classes[i][1]), i});
         }
-        int n = classes.size();
         double sum = 0;
-        for(int i=0; i<n; i++){
-            sum += (pq.top().first * 1.0)/(pq.top().second);
-            pq.pop();
+        for(auto &v: classes){
+            sum += (double)v[0]/v[1];
         }
         return sum/n;
     }
