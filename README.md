@@ -96,6 +96,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3643-zero-array-transformation-ii](https://github.com/hariom-nabira/dsa/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hariom-nabira/dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hariom-nabira/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hariom-nabira/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/hariom-nabira/dsa/tree/master/3885-count-special-triplets) |
 ## Prefix Sum
@@ -211,6 +212,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hariom-nabira/dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hariom-nabira/dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hariom-nabira/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Math
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hariom-nabira/dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/hariom-nabira/dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hariom-nabira/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hariom-nabira/dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/hariom-nabira/dsa/tree/master/3830-find-closest-person) |
 ## Recursion
