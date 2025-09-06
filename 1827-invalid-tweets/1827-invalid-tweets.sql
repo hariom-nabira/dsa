@@ -1,4 +1,4 @@
-/* Write your PL/SQL query statement below */
-select 
-    tweet_id from Tweets 
-where length(content) > 15;
+# Write your MySQL query statement below
+SELECT tweet_id
+FROM tweets
+WHERE length(content) > 15;
