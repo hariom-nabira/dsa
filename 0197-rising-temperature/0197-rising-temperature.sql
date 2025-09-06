@@ -5,5 +5,5 @@ WHERE temperature >
 (
     SELECT temperature
     FROM Weather k 
-    WHERE k.recordDate = DATE_SUB(w.recordDate, INTERVAL 1 DAY)
+    WHERE DATEDIFF(k.recordDate, w.recordDate) = -1
 );
