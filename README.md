@@ -438,6 +438,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1801-average-time-of-process-per-machine](https://github.com/hariom-nabira/dsa/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/hariom-nabira/dsa/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hariom-nabira/dsa/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/hariom-nabira/dsa/tree/master/2087-confirmation-rate) |
 ## Brainteaser
 |  |
 | ------- |
