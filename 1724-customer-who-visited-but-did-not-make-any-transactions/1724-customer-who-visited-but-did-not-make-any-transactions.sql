@@ -5,7 +5,7 @@ FROM
   Visits 
 WHERE 
   visit_id NOT IN (
-    SELECT 
+    SELECT DISTINCT
       visit_id 
     FROM 
       Transactions
