@@ -121,6 +121,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/hariom-nabira/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
@@ -270,11 +271,13 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/hariom-nabira/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/hariom-nabira/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/hariom-nabira/dsa/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/hariom-nabira/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/hariom-nabira/dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/hariom-nabira/dsa/tree/master/1133-last-substring-in-lexicographical-order) |
