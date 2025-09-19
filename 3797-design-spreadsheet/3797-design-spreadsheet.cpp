@@ -1,44 +1,21 @@
 class Spreadsheet {
 private:
-    vector<vector<int>> sheet;
-    pair<int,int> getCellCoor(string &s){
-        return {(s[0]-'A'), stoi(s.substr(1))};
-    }
+    unordered_map<string, int> sheet;
 public:
-    Spreadsheet(int rows) {
-        sheet = vector<vector<int>> (26, vector<int>(rows,0));
-    }
-    
+    Spreadsheet(int rows) {}
     void setCell(string cell, int value) {
-        pair<int,int> coors = getCellCoor(cell);
-        sheet[coors.first][coors.second - 1] = value;
+        sheet[cell] = value;
     }
-    
     void resetCell(string cell) {
-        pair<int,int> coors = getCellCoor(cell);
-        sheet[coors.first][coors.second - 1] = 0;
+        sheet.erase(cell);
     }
-    
     int getValue(string formula) {
-        int ans=0, pi = formula.find("+");
-        string cell1 = formula.substr(1,pi-1);
-        string cell2 = formula.substr(pi+1);
-        // cout<<pi<<"\n"<<cell1<<"\n"<<cell2<<"\n";
-        // <<cell1[0]<<" "<<cell2[0]<<"\n";
-        if('A' <= cell1[0] && cell1[0] <= 'Z'){
-            // cout<<"the fuck";
-            pair<int,int> coors = getCellCoor(cell1);
-            ans += sheet[coors.first][coors.second-1];
-        }else{
-            ans += stoi(cell1);
-        }
-        if('A' <= cell2[0] && cell2[0] <= 'Z'){
-            pair<int,int> coors = getCellCoor(cell2);
-            ans += sheet[coors.first][coors.second-1];
-        }else{
-            ans += stoi(cell2);
-        }
-        return ans;
+        int pi = formula.find("+");
+        string s1 = formula.substr(1,pi-1);
+        string s2 = formula.substr(pi+1);
+        int v1 = ('A'<=s1[0] && s1[0]<='Z') ? sheet[s1] : stoi(s1);
+        int v2 = ('A'<=s2[0] && s2[0]<='Z') ? sheet[s2] : stoi(s2);
+        return v1+v2;
     }
 };
 
