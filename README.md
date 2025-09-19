@@ -98,6 +98,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hariom-nabira/dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hariom-nabira/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hariom-nabira/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/hariom-nabira/dsa/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/hariom-nabira/dsa/tree/master/3885-count-special-triplets) |
 ## Prefix Sum
@@ -152,6 +153,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariom-nabira/dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hariom-nabira/dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/hariom-nabira/dsa/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/hariom-nabira/dsa/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/hariom-nabira/dsa/tree/master/3885-count-special-triplets) |
 ## String
@@ -191,6 +193,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hariom-nabira/dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariom-nabira/dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hariom-nabira/dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/hariom-nabira/dsa/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -373,6 +376,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hariom-nabira/dsa/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hariom-nabira/dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3797-design-spreadsheet](https://github.com/hariom-nabira/dsa/tree/master/3797-design-spreadsheet) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -606,6 +610,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
+| [3797-design-spreadsheet](https://github.com/hariom-nabira/dsa/tree/master/3797-design-spreadsheet) |
 ## Bitmask
 |  |
 | ------- |
