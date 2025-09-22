@@ -18,6 +18,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0135-candy](https://github.com/hariom-nabira/dsa/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/hariom-nabira/dsa/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
@@ -424,6 +425,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/hariom-nabira/dsa/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hariom-nabira/dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -464,6 +466,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hariom-nabira/dsa/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hariom-nabira/dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Breadth-First Search
@@ -549,6 +552,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hariom-nabira/dsa/tree/master/0239-sliding-window-maximum) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hariom-nabira/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/hariom-nabira/dsa/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hariom-nabira/dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -620,4 +624,8 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hariom-nabira/dsa/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hariom-nabira/dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
