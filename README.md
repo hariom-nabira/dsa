@@ -9,6 +9,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0033-search-in-rotated-sorted-array](https://github.com/hariom-nabira/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hariom-nabira/dsa/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/hariom-nabira/dsa/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/hariom-nabira/dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hariom-nabira/dsa/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
@@ -261,6 +262,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hariom-nabira/dsa/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hariom-nabira/dsa/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -269,6 +271,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hariom-nabira/dsa/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
 ## Linked List
@@ -281,6 +284,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hariom-nabira/dsa/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hariom-nabira/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
@@ -510,6 +514,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hariom-nabira/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hariom-nabira/dsa/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/hariom-nabira/dsa/tree/master/0118-pascals-triangle) |
