@@ -24,6 +24,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0239-sliding-window-maximum](https://github.com/hariom-nabira/dsa/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0455-assign-cookies](https://github.com/hariom-nabira/dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
@@ -291,6 +292,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0042-trapping-rain-water](https://github.com/hariom-nabira/dsa/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hariom-nabira/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0455-assign-cookies](https://github.com/hariom-nabira/dsa/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/hariom-nabira/dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/hariom-nabira/dsa/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -317,6 +319,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0135-candy](https://github.com/hariom-nabira/dsa/tree/master/0135-candy) |
+| [0455-assign-cookies](https://github.com/hariom-nabira/dsa/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/hariom-nabira/dsa/tree/master/0797-rabbits-in-forest) |
@@ -412,6 +415,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/hariom-nabira/dsa/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hariom-nabira/dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/hariom-nabira/dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
