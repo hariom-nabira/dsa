@@ -13,6 +13,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0051-n-queens](https://github.com/hariom-nabira/dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hariom-nabira/dsa/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hariom-nabira/dsa/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hariom-nabira/dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -371,6 +372,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hariom-nabira/dsa/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
@@ -520,6 +522,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0042-trapping-rain-water](https://github.com/hariom-nabira/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hariom-nabira/dsa/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/hariom-nabira/dsa/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hariom-nabira/dsa/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/hariom-nabira/dsa/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
