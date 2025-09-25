@@ -25,6 +25,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/hariom-nabira/dsa/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/hariom-nabira/dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariom-nabira/dsa/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
@@ -369,6 +370,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/hariom-nabira/dsa/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hariom-nabira/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
 |  |
@@ -530,6 +532,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0118-pascals-triangle](https://github.com/hariom-nabira/dsa/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/hariom-nabira/dsa/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/hariom-nabira/dsa/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/hariom-nabira/dsa/tree/master/0806-domino-and-tromino-tiling) |
