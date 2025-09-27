@@ -169,6 +169,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
 | [0514-freedom-trail](https://github.com/hariom-nabira/dsa/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/hariom-nabira/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/hariom-nabira/dsa/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/hariom-nabira/dsa/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
@@ -534,6 +535,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/hariom-nabira/dsa/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/hariom-nabira/dsa/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/hariom-nabira/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/hariom-nabira/dsa/tree/master/0806-domino-and-tromino-tiling) |
 | [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
