@@ -1,21 +1,19 @@
 class Solution {
-public:
-    void helper(vector<int> &nums, int i,  vector<int> &curr, int target, vector<vector<int>> &ans){
-        if(target<=0){
-            if(target==0) ans.push_back(curr);
-            return;
-        }
-        for(int j=i; j<nums.size(); j++){
-            curr.push_back(nums[j]);
-            helper(nums, j, curr, target-nums[j], ans);
+private:
+    void helper(vector<vector<int>> &ans, vector<int> &curr, vector<int>& candidates, int start, int targetLeft){
+        if(!targetLeft) ans.push_back(curr);
+        if(targetLeft < 0) return;
+        for(int i=start; i<candidates.size(); i++){
+            curr.push_back(candidates[i]);
+            helper(ans, curr, candidates, i, targetLeft-candidates[i]);
             curr.pop_back();
         }
     }
+public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> curr;
-        sort(candidates.begin(), candidates.end());
-        helper(candidates, 0, curr, target, ans);
+        helper(ans, curr, candidates, 0, target);
         return ans;
     }
 };
