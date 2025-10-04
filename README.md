@@ -131,6 +131,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hariom-nabira/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/hariom-nabira/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hariom-nabira/dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -169,6 +170,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hariom-nabira/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/hariom-nabira/dsa/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
@@ -370,6 +372,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hariom-nabira/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/hariom-nabira/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hariom-nabira/dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hariom-nabira/dsa/tree/master/0046-permutations) |
