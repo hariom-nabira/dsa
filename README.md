@@ -19,6 +19,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hariom-nabira/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/hariom-nabira/dsa/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/hariom-nabira/dsa/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/hariom-nabira/dsa/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/hariom-nabira/dsa/tree/master/0152-maximum-product-subarray) |
@@ -208,6 +209,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/hariom-nabira/dsa/tree/master/0090-subsets-ii) |
 | [1835-decode-xored-permutation](https://github.com/hariom-nabira/dsa/tree/master/1835-decode-xored-permutation) |
 | [1881-closest-subsequence-sum](https://github.com/hariom-nabira/dsa/tree/master/1881-closest-subsequence-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hariom-nabira/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -375,6 +377,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0051-n-queens](https://github.com/hariom-nabira/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hariom-nabira/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/hariom-nabira/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/hariom-nabira/dsa/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/hariom-nabira/dsa/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hariom-nabira/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
