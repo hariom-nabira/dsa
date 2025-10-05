@@ -249,6 +249,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [3199-distribute-candies-among-children-i](https://github.com/hariom-nabira/dsa/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hariom-nabira/dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/hariom-nabira/dsa/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/hariom-nabira/dsa/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hariom-nabira/dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hariom-nabira/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -268,6 +269,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [1642-water-bottles](https://github.com/hariom-nabira/dsa/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/hariom-nabira/dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3336-water-bottles-ii](https://github.com/hariom-nabira/dsa/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
