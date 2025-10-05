@@ -27,6 +27,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0239-sliding-window-maximum](https://github.com/hariom-nabira/dsa/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/hariom-nabira/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/hariom-nabira/dsa/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/hariom-nabira/dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/hariom-nabira/dsa/tree/master/0496-next-greater-element-i) |
@@ -393,6 +394,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hariom-nabira/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/hariom-nabira/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/hariom-nabira/dsa/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/hariom-nabira/dsa/tree/master/0945-snakes-and-ladders) |
@@ -410,6 +412,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0079-word-search](https://github.com/hariom-nabira/dsa/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/hariom-nabira/dsa/tree/master/0386-lexicographical-numbers) |
+| [0417-pacific-atlantic-water-flow](https://github.com/hariom-nabira/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0514-freedom-trail](https://github.com/hariom-nabira/dsa/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hariom-nabira/dsa/tree/master/0684-redundant-connection) |
@@ -505,6 +508,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [0207-course-schedule](https://github.com/hariom-nabira/dsa/tree/master/0207-course-schedule) |
 | [0407-trapping-rain-water-ii](https://github.com/hariom-nabira/dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/hariom-nabira/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0514-freedom-trail](https://github.com/hariom-nabira/dsa/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/hariom-nabira/dsa/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0662-maximum-width-of-binary-tree) |
