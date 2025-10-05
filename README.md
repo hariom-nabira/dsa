@@ -241,6 +241,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1448-maximum-69-number](https://github.com/hariom-nabira/dsa/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/hariom-nabira/dsa/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hariom-nabira/dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/hariom-nabira/dsa/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/hariom-nabira/dsa/tree/master/2050-count-good-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/hariom-nabira/dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/hariom-nabira/dsa/tree/master/2998-count-symmetric-integers) |
@@ -265,6 +266,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/hariom-nabira/dsa/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/hariom-nabira/dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
