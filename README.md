@@ -77,6 +77,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hariom-nabira/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hariom-nabira/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariom-nabira/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2662-check-knight-tour-configuration](https://github.com/hariom-nabira/dsa/tree/master/2662-check-knight-tour-configuration) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hariom-nabira/dsa/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/hariom-nabira/dsa/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/hariom-nabira/dsa/tree/master/2689-rearranging-fruits) |
@@ -269,6 +270,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | ------- |
 | [1642-water-bottles](https://github.com/hariom-nabira/dsa/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/hariom-nabira/dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2662-check-knight-tour-configuration](https://github.com/hariom-nabira/dsa/tree/master/2662-check-knight-tour-configuration) |
 | [3336-water-bottles-ii](https://github.com/hariom-nabira/dsa/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hariom-nabira/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
@@ -406,6 +408,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/hariom-nabira/dsa/tree/master/2145-grid-game) |
+| [2662-check-knight-tour-configuration](https://github.com/hariom-nabira/dsa/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hariom-nabira/dsa/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hariom-nabira/dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -425,6 +428,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hariom-nabira/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/hariom-nabira/dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2662-check-knight-tour-configuration](https://github.com/hariom-nabira/dsa/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/hariom-nabira/dsa/tree/master/2793-count-the-number-of-complete-components) |
 ## Divide and Conquer
@@ -524,6 +528,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hariom-nabira/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/hariom-nabira/dsa/tree/master/1876-map-of-highest-peak) |
+| [2662-check-knight-tour-configuration](https://github.com/hariom-nabira/dsa/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hariom-nabira/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/hariom-nabira/dsa/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
