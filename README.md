@@ -41,6 +41,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hariom-nabira/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/hariom-nabira/dsa/tree/master/1240-stone-game-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hariom-nabira/dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hariom-nabira/dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1396-count-servers-that-communicate](https://github.com/hariom-nabira/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/hariom-nabira/dsa/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hariom-nabira/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -143,6 +144,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/hariom-nabira/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hariom-nabira/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hariom-nabira/dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/hariom-nabira/dsa/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1500-count-largest-group](https://github.com/hariom-nabira/dsa/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
@@ -183,6 +185,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0952-word-subsets](https://github.com/hariom-nabira/dsa/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/hariom-nabira/dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/hariom-nabira/dsa/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hariom-nabira/dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/hariom-nabira/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hariom-nabira/dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -442,6 +445,7 @@ A collection of the LeetCode problems I have solved so far in 2025
 | [0047-permutations-ii](https://github.com/hariom-nabira/dsa/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-nabira/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/hariom-nabira/dsa/tree/master/0455-assign-cookies) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hariom-nabira/dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hariom-nabira/dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/hariom-nabira/dsa/tree/master/1503-reducing-dishes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/hariom-nabira/dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
